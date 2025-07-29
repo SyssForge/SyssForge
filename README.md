@@ -1,11 +1,16 @@
 ## Hi there 👋
+Welcome to my digital forge! I'm a final-year B.Tech student in Electronics and Communication Engineering with a strong interest in software development and IT. Motivated by a passion for technology and problem-solving, I have experience in academic and self-driven projects. I'm actively exploring opportunities to begin a career in the software industry, with a focus on continuous learning and practical impact.
 
+[👀 My Interests](#my-intrest)
+AI & ML Projects (including Machine Learning, Deep Learning, CNN, Image Processing, Object Classification, Object Detection) 
+Cybersecurity 
+Full-stack Web Development (using technologies like React.js, Node.js, MySQL, MongoDB) 
 <!--
 **SyssForge/SyssForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
